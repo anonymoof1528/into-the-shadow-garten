@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "screw_right_wings.md",
+                "file": "physics_notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "screw_right_wings.md",
+                "file": "physics_notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "screw_right_wings.md",
+                "file": "physics_notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "screw_right_wings.md"
+                "file": "physics_notes.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "ea653f6a5a5759a2",
   "lastOpenFiles": [
+    "screw_right_wings.md",
+    "physics_notes.md",
     "index.md",
-    "README.md",
-    "screw_right_wings.md"
+    "README.md"
   ]
 }
