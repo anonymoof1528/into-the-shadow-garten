@@ -75,7 +75,7 @@ Work is known as the change in energy (though energy is conserved and cannot be 
 
 Another concept is elastic and inelastic collisions. Elastic collisions between objects involve no change in the total kinetic energy of the objects, and is therefore conserved. On the other hand, in inelastic collisions, kinetic energy of the objects can be converted to another type, therefore the kinetic energy of the objects will not be the same. There usually does not exist completely elastic collisions except for that of particles in the air right now (kinetic theory of matter), but for the sake of the test, there could be for all we know.
 
-Power is the rate of change of energy (change in energy divided by change in time).
+Power is the rate of change of energy (change in energy divided by change in time). Also can be the rate of work done, and is measured in Watts (W) or $J s^{-1}$ (Joules per second; best to take it into account when analysing graphs).
 
 ## Other things to cover
 
