@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physics_notes.md",
+                "file": "I_hate_psychoanalysis_but_that_and_Jekyll_and_Hyde.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "physics_notes.md",
+                "file": "I_hate_psychoanalysis_but_that_and_Jekyll_and_Hyde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "physics_notes.md",
+                "file": "I_hate_psychoanalysis_but_that_and_Jekyll_and_Hyde.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "physics_notes.md"
+                "file": "I_hate_psychoanalysis_but_that_and_Jekyll_and_Hyde.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "ea653f6a5a5759a2",
   "lastOpenFiles": [
+    "index.md",
+    "I_hate_psychoanalysis_but_that_and_Jekyll_and_Hyde.md",
     "screw_right_wings.md",
     "physics_notes.md",
-    "index.md",
     "README.md"
   ]
 }
