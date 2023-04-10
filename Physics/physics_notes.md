@@ -80,3 +80,5 @@ Power is the rate of change of energy (change in energy divided by change in tim
 ## Other things to cover
 
 The main thing to consider that I haven't mentioned yet is analysing graphs. Finding the area under the curve and the gradient usually isn't too hard, but for non-linear graphs, just estimate by using two different points or tangents to certain points. You are not meant to do calculus for this test, but even if you do, there's no guarantee you'll get marks. 
+
+Return to [home](index.md)
