@@ -1,5 +1,6 @@
 ---
 title: Into the shadow garten
+layout: default
 ---
 
 Jello! I make some funny notes for things I find interesting or just for reference. Ignore the link below, only my joy for finally having a website.
@@ -16,3 +17,7 @@ Chemistry Notes:
 
 Literature Notes:
 - [rantsolve of Jekyll and Hyde?](I_hate_psychoanalysis_but_that_and_Jekyll_and_Hyde.md)
+
+This should be an $x$ that is inline
+
+$$ this is a block$$
