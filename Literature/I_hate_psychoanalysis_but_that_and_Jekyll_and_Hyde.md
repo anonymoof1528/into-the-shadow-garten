@@ -38,8 +38,8 @@ title: I hate psychoanalysis but that and Jekyll and Hyde
 	2. Much like an iceberg, the conscious is the tip above the water, then the rest that is unseen is the unconscious
 2. The human mind is comprised of three provinces
 	1. The Id - the province containing the desires, impulses and pleasures (Edward Hyde)
-	2. The Ego - The sense of actuality and realism (Henry Jekyll)
-	3. The Superego - a mediation between the Id and Ego (the potion)
+	2. The Superego - The sense of actuality and realism, the desire to follow the rules and expectations set in society (Henry Jekyll)
+	3. The Ego - a mediation between the Id and Ego, which is actually expressed to the outer world (the potion)
 		1. There also existed the idea that superego existed as a natural and conserved between people, that it was a fulcrum and balance that couldn't be changed
 		2. Stevenson, however, directly challenges such an idea by suggesting a character (Jekyll) in his story that is temporarily able to control his superego, making readers question such ideas, how they apply to them and society in general
 			1. Jekyll appeared to despise his own self and yearned for a way to turn his life around, in which his work finally bore fruit, one that both was his comfort and his bane
