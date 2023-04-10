@@ -17,7 +17,7 @@ Chemistry Notes:
 
 Literature Notes:
 
-- [rantsolve of Jekyll and Hyde?](I_hate_psychoanalysis_but_that_and_Jekyll_and_Hyde.md)
+- [rantsolve of Jekyll and Hyde?](Literature/I_hate_psychoanalysis_but_that_and_Jekyll_and_Hyde.md)
 
 This should be an $x$ that is inline
 
