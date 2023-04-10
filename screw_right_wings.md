@@ -12,3 +12,5 @@ YEAHHHHHH
 
 MR SEEK
 POGGERS
+
+Return to [home](index.md)
