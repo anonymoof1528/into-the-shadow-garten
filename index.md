@@ -11,7 +11,7 @@ I make notes on mostly science (physics & chem, anything else is terrible), lite
 Physics Notes:
 - [i need help (first physics CAP notes)](Physics/Linear%20Motion%20Notes.md)
 - [yum (Waves investigation)](Physics/Waves%20Evaluation%20and%20Analysis%20Task%20Research.md)
-- [tastier (Waves Topic Test and Resonance Validation Test)]()
+- [tastier (Waves Topic Test and Resonance Validation Test)](Physics/Waves%20and%20Resonance%20Notes.md)
 
 Chemistry Notes:
 - Work in progress! (I mostly write my notes for chemistry)
@@ -19,10 +19,6 @@ Chemistry Notes:
 Literature Notes:
 
 - [rantsolve of Jekyll and Hyde?](Literature/I_hate_psychoanalysis_but_that_and_Jekyll_and_Hyde.md)
-
-This should be an $x$ that is inline
-
-$$ this is a block$$
 
 Japanese Notes:
 - [Test on 4th! mmmMMEWINERGMFINWIEFS](Japanese/Writing_test_summary.md)
