@@ -72,3 +72,6 @@ title: I hate psychoanalysis but that and Jekyll and Hyde
 - This is the idea that can bring us back to Jekyll and Hyde, because as we know from prior deduction, Jekyll had found what he had been longing for - something that could help him control his own self
 	- However, he found himself in something that seemed like what he had yearned for the entire time, but something was very wrong - he kept acting erratic, not to his true will, and ended up murdering Sir Carew
 	- Not only that, he ended up permanently turning into Hyde
+
+
+Return to [home](index.md)

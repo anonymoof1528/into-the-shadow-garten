@@ -9,8 +9,9 @@ Jello! I make some funny notes for things I find interesting or just for referen
 I make notes on mostly science (physics & chem, anything else is terrible), literature and also Japanese (usually summaries). 
 
 Physics Notes:
-- [i need help (first physics CAP notes)](Physics/physics_notes.md)
-- [yum (Waves investigation)](Physics/Waves_Evaluation_and_Analysis_Task_Research.md)
+- [i need help (first physics CAP notes)](Physics/Linear%20Motion%20Notes.md)
+- [yum (Waves investigation)](Physics/Waves%20Evaluation%20and%20Analysis%20Task%20Research.md)
+- [tastier (Waves Topic Test and Resonance Validation Test)]()
 
 Chemistry Notes:
 - Work in progress! (I mostly write my notes for chemistry)

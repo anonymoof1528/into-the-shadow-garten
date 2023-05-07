@@ -1,5 +1,5 @@
 ---
-title: Notes for Physics Test
+title: Notes for Linear Motion Test
 enableToc: true
 ---
 
