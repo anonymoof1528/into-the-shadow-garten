@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Waves and Resonance Notes.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Waves and Resonance Notes.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Waves and Resonance Notes.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Waves and Resonance Notes.md"
+                "file": "index.md"
               }
             }
           }
@@ -156,10 +156,11 @@
   },
   "active": "ea653f6a5a5759a2",
   "lastOpenFiles": [
+    "Physics/Waves_Evaluation_and_Analysis_Task_Research.md",
+    "Physics/Linear_Motion_Notes.md",
+    "Physics/Waves_and_Resonance_Notes.md",
+    "Literature/I_hate_psychoanalysis_but_that_and_Jekyll_and_Hyde.md",
     "index.md",
-    "Physics/Waves and Resonance Notes.md",
-    "Physics/Linear Motion Notes.md",
-    "Physics/Waves Evaluation and Analysis Task Research.md",
     "().md",
     "docs/CODE_OF_CONDUCT.md",
     "Chemistry/Intermolecular_Forces.md",
@@ -169,7 +170,6 @@
     "Untitled.md",
     "Japanese/Writing_test_summary.md",
     "they.md",
-    "Literature/I_hate_psychoanalysis_but_that_and_Jekyll_and_Hyde.md",
     "Chemistry/example_template_disp.jpg",
     "Chemistry/example_template_disp.jpg.md",
     "Untitled",
