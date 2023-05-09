@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
+                "file": "Physics/Waves_and_Resonance_Notes.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Physics/Waves_and_Resonance_Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Physics/Waves_and_Resonance_Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Physics/Waves_and_Resonance_Notes.md"
               }
             }
           }
@@ -156,11 +156,11 @@
   },
   "active": "ea653f6a5a5759a2",
   "lastOpenFiles": [
+    "index.md",
     "Physics/Waves_Evaluation_and_Analysis_Task_Research.md",
     "Physics/Linear_Motion_Notes.md",
     "Physics/Waves_and_Resonance_Notes.md",
     "Literature/I_hate_psychoanalysis_but_that_and_Jekyll_and_Hyde.md",
-    "index.md",
     "().md",
     "docs/CODE_OF_CONDUCT.md",
     "Chemistry/Intermolecular_Forces.md",

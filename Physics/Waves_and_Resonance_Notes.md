@@ -11,8 +11,8 @@ Waves will be the focus of the test. The objectives for this topic test in the f
 
 ### Summary
 1. Waves and Classifications
-2. Graphing Waves/Analysis of waves
-3. Wave equations and anatomy
+2. Wave equations and anatomy
+3. Graphing Waves/Analysis of waves
 4. Reflection and Refraction
 5. Standing Waves
 6. Interference phenomena
@@ -25,11 +25,20 @@ A **wave** is a **disturbance with periodic oscillations that transfers energy f
 
 Waves can be classified into four different categories based on their properties, which are **transverse, longitudinal, mechanical and non-mechanical**. Transverse waves **oscillate, and hence, displace matter perpendicularly to their own direction/propagation**. Longitudinal waves, on the other hand, **displaces matter in the same direction that they move**, that is, **the direction of the displacement of particles is parallel to the direction of the wave's propagation**. Mechanical waves **require a medium** (usually a substance constituting of some type of matter) **to travel**, while non-mechanical waves **do not require a medium to travel** (but can still travel through most media (plural of medium, keep in mind, but haha how's it going in the news guys maybe news is a type of wave who knows)). Below is a cross-table with some examples of these types of waves.
 
-| ----------- | Transverse | Longitudinal |
+|  | Transverse | Longitudinal |
+| --- | --- | --- |
 | Mechanical | Water/ocean wave | Sound |
 | Non-mechanical | Electromagnetic radiation | Electromagnetic radiation [^1] |
 
+### Waves equations and anatomy
 
+Waves have multiple features that allow for distinguishing between different types. The following are all such features: wavelength, frequency, amplitude, period and velocity.
+
+The wavelength of a wave is the distance between a whole wave cycle, which is the spacial repetition (or two recurring points on the graph of a wave, though that's further ahead). Because waves have periodic (and hence, (also further ahead) using the equations, frequent), a wave will always have a set wavelength (except when propagating through different media or interactions with other waves).
+
+### Graphing Waves/Analysis of Waves
+
+Waves can be graphed to depict, essentially, the magnitude of their features. These features include 
 
 
 
