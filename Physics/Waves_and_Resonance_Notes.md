@@ -34,7 +34,15 @@ Waves can be classified into four different categories based on their properties
 
 Waves have multiple features that allow for distinguishing between different types. The following are all such features: wavelength, frequency, amplitude, period and velocity.
 
-The wavelength of a wave is the distance between a whole wave cycle, which is the spacial repetition (or two recurring points on the graph of a wave, though that's further ahead). Because waves have periodic (and hence, (also further ahead) using the equations, frequent), a wave will always have a set wavelength (except when propagating through different media or interactions with other waves).
+The wavelength of a wave ($\lambda$) is the distance between a whole wave cycle, which is the spacial repetition (or two recurring points on the graph of a wave, though that's further ahead). Because waves have periodic (and hence, (also further ahead) using the equations, frequent), a wave will always have a set wavelength (except when propagating through different media or interactions with other waves). Wavelength is typically measured in metres.
+
+The frequency ($f$) of a wave refers to how many wave cycles occur within one second. The frequency of a wave is a conserved quantity in the sense that it will not change regardless of entering new media or interacting with other waves. Frequencies are also one characteristic of a wave that affects the amount of energy it carries. Since the energy it carries is essentially the total mechanical energy (sum of kinetic energy (which includes velocity of which frequency is a factor of, also ahead) and potential energy), velocity of the wave is a factor of it (which frequency contributes to).
+
+The amplitude ($\text{A}$) of a wave depicts the change in distance/displacement/pressure of particles that the waves encounters in relative to their original position/pressure. This is shown in graphs as the difference of y-value of points on the graph from the rest position to a crest/trough (with corresponding axes).
+
+The period ($\text{T}$) of a wave is the amount of time it takes for one wave cycle to complete, usually measured in seconds. This, as you may know, seems like the opposite of frequency, and it is known as the inverse/reciprocal of frequency.
+
+The velocity ($\text{v}$) of a wave is 
 
 ### Graphing Waves/Analysis of Waves
 

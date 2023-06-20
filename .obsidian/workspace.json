@@ -14,12 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "Physics/Waves_and_Resonance_Notes.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b6973ee1d3337bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Linear_Motion_Notes.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Waves_and_Resonance_Notes.md",
+                "file": "Physics/Linear_Motion_Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Waves_and_Resonance_Notes.md",
+                "file": "Physics/Linear_Motion_Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Waves_and_Resonance_Notes.md"
+                "file": "Physics/Linear_Motion_Notes.md"
               }
             }
           }
@@ -154,27 +167,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea653f6a5a5759a2",
+  "active": "0b6973ee1d3337bd",
   "lastOpenFiles": [
-    "index.md",
+    "many.md",
+    "one.md",
+    "they.md",
+    "screw_right_wings.md",
+    "Physics/Standard_Model.md",
     "Physics/Waves_Evaluation_and_Analysis_Task_Research.md",
-    "Physics/Linear_Motion_Notes.md",
-    "Physics/Waves_and_Resonance_Notes.md",
     "Literature/I_hate_psychoanalysis_but_that_and_Jekyll_and_Hyde.md",
+    "Physics/Waves_and_Resonance_Notes.md",
+    "index.md",
+    "fren.png",
+    "Physics/Linear_Motion_Notes.md",
     "().md",
     "docs/CODE_OF_CONDUCT.md",
     "Chemistry/Intermolecular_Forces.md",
     "assets/images/body-bg.png",
     "assets/images/highlight-bg.jpg",
     "Chemistry/femtosecond_chance_disp.jpg",
-    "Untitled.md",
     "Japanese/Writing_test_summary.md",
-    "they.md",
     "Chemistry/example_template_disp.jpg",
     "Chemistry/example_template_disp.jpg.md",
     "Untitled",
     "README.md",
-    "screw_right_wings.md",
     "Physics",
     "Literature",
     "Japanese",
@@ -186,7 +202,6 @@
     "_layouts/default.html",
     "_layouts",
     "Chemistry",
-    "fren.png",
     "fren.png.md"
   ]
 }

@@ -67,7 +67,7 @@ title: I hate psychoanalysis but that and Jekyll and Hyde
 - Sigmund had explored the concept of the uncanny, his work shown in a 1919 essay of his, which explores the eeriness of dolls and waxworks
 	- He argues that the uncanny manages to locate the strange in the ordinary
 	- The term he uses for 'uncanny' (*unheimliche*) can also be translated as unhomely - the uncanny is something that can be seen as homely but people can be convinced otherwise
-- Another idea proposed by Jacques Lacan was that the uncanny placed people "in the field where [they](they.md) do not know how to distinguish bad and good, pleasure from displeasure"
+- Another idea proposed by Jacques Lacan was that the uncanny placed people "in the field where [they](../they.md) do not know how to distinguish bad and good, pleasure from displeasure"
 - This results in an irreversible feeling of anxiety that gestures to the Real (another concept Lacan theorises)
 - This is the idea that can bring us back to Jekyll and Hyde, because as we know from prior deduction, Jekyll had found what he had been longing for - something that could help him control his own self
 	- However, he found himself in something that seemed like what he had yearned for the entire time, but something was very wrong - he kept acting erratic, not to his true will, and ended up murdering Sir Carew

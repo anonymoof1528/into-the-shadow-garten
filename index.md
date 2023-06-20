@@ -12,6 +12,7 @@ Physics Notes:
 - [i need help (first physics CAP notes)](Physics/Linear_Motion_Notes.md)
 - [yum (Waves investigation)](Physics/Waves_Evaluation_and_Analysis_Task_Research.md)
 - [tastier (Waves Topic Test and Resonance Validation Test)](Physics/Waves_and_Resonance_Notes.md)
+- [delectable (Standard Model)](Physics/Standard_Model.md)
 
 Chemistry Notes:
 - Work in progress! (I mostly write my notes for chemistry)
